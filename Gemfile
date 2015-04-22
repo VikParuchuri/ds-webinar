@@ -1,0 +1,1 @@
+gem 'mdpress', :git => 'git://github.com/egonSchiele/mdpress.git'

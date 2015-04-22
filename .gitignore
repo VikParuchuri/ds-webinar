@@ -1,2 +1,4 @@
 articles.csv
 data/
+.idea/
+Gemfile.lock
