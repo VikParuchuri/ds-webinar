@@ -8,33 +8,42 @@ title: Machine learning education
 ## vik.paruchuri@gmail.com
 
 ---
+# How I got started with ML
+
+* Bachelors in American History
+* Learned using online resources
+
+---
 # Quick survey
 
 ---
-# Four questions
+# The problem
 
-* How do we get more people into ML?
-* How do we improve people's skills once they get in?
-* How do we vertically grow machine learning?
-* How do people prove what they know?
+* Learning about machine learning is a nebulous process that isn't aligned with application
+
+---
+# The result
+
+* Many turned away from machine learning
+* Important skills not emphasized
+
+---
+# Questions to answer in this talk
+
+* What do I tell someone who wants to learn ML?
+* How do I learn ML or improve my skills?
 
 ---
 # Getting more people in
 
-## Huge strides in past few years
-## > 100k students in Andrew Ng's first class
+* Huge strides in past few years
+* > 100k students in Andrew Ng's first class
 
 ---
-# How I got started with ML
+# MOOCs
 
-## Bachelors in American History
-## Learned using online resources
-
----
-# MOOCs/Textbooks
-
-* Wide variety of high quality material
-* Great for deepening learning
+* Great material
+* Good for deepening learning
 * Hard to filter
 * Not always application focused
 
@@ -49,91 +58,46 @@ title: Machine learning education
 ---
 # So...how does someone learn machine learning?
 
-## Standard answer: stats, linear algebra, read books, take moocs
-## Very few make it through
-
----
-# So you want to work on this stuff, huh?
-
----
-# Application
-
-## Applied side very important, especially starting out
-## Data cleaning 90% of the work
-
----
-# Communication
-
-## Explaining results
-## Working with other teams
-
---
-# Systems
-
-## Writing faster-running code
-## Scaling to multiple machines
-
----
-# Why aren't we teaching this stuff?
-
-## Harder + Less interesting to teach
-## Seen as an industry problem
-
----
-# Problem: Bias
-
-## Most people who made it through are self-motivated
-## Or went through universities
-## In most cases, both
-
----
-# Problem: quickly evolving field
-
-## Hard to know what someone needs
-## Machine learning becoming a "destination"
-
----
-# Result
-
-## Many turned off of machine learning
-## Kaggle + courses turn into a personality prefilter
-## "Machine learning" on resume != "Can do machine learning"
+* Standard answer: stats, linear algebra, read books, take moocs
+* Very few make it through
 
 ---
 # Machine learning pyramid
 
-## Researchers
-## Framework developers
-## Appliers
-## Interpreters
-## Consumers
+* Researchers
+* Framework developers
+* Appliers
+* Interpreters
+* Consumers
 
 ---
 # The lower layers are important
 
-## Two "AI Winters"
+* Two "AI Winters"
     * Hype
     * Inability to adapt products to the market
-## Elon Musk (and others) -- "AI is an existential threat"
+* Elon Musk (and others) -- "AI is an existential threat"
     
 ---
 # edX automated essay scoring
 
-## Too much hype
-## Negative public reaction
+* Too much hype
+* Negative public reaction
 
 ---
 # Why don't we focus on other layers?
 
-## Roles just being defined
-## Top people in the field tend to answer
-## Many job postings are unrealistic
+* Roles just being defined
+* Many job postings are unrealistic
 
 ---
 # Perpetuates a myth
 
-## Either a beginner or at the top
-## Have to know everything about everything
+* Either a beginner or at the top
+* Have to know everything about everything
+
+---
+# Learning applied ML
 
 ---
 # Machine learning is about solving problems
@@ -141,92 +105,137 @@ title: Machine learning education
 ---
 # Entry level job/project-readiness
 
-## Basic algo skills
-## "The rest"
+* Basic algo skills
+* "The rest"
 
 ---
-# How do we improve?
+# Application
 
-## Focus on application/practical skills!
-## Emphasize peer interactions
-
----
-# Discussion = good
-
-## Educational research shows blended learning very effective
-## Discussion activity correlates with high course performance
+* Applied side important
+* Data cleaning 90% of work
 
 ---
-# ML = Motivation
+# Communication
 
-## First steps are semi-magical
+* Explaining results
+* Working with other teams
+
+--
+# Systems
+
+* Writing faster-running code
+* Scaling to multiple machines
 
 ---
-# How to sustain motivation?
+# Programming
 
-## Recognize that everyone has different on and off ramps
-## Make better tools
+* Writing well-structured code
+* Testing
+
+---
+# Why aren't we teaching this stuff?
+
+* Harder + less interesting to teach
+* Seen as easier in industry
+
+---
+# Problem: Bias
+
+* People who made it through know more now
+* Not everyone wants to get to the same place
+
+---
+# Problem: quickly evolving field
+
+* Hard to know what someone needs
+* Machine learning becoming a "destination"
+
+---
+# Result
+
+* Many turned off of machine learning
+* Kaggle + courses turn into a personality prefilter
+    * Reduces diversity
+* "Machine learning" on resume != "Can do machine learning"
+
+---
+# How to motivate people to learn?
+
+* Recognize that everyone has different on and off ramps
+* Make better tools
     * Educational
     * Applied
+    
+---
+# ML has intrinsic motivation
+
+* First steps are semi-magical
 
 ---
 # High schoolers
 
-## 2 high schools on dataquest
-## Very good results
-## Next step: teach ML
+* 2 high schools on dataquest
+* Very good results
+* Next step: teach ML
+
+---
+# Discussion is good
+
+* Blended learning very effective
+* Correlates with high course performance
 
 ---
 # So...how should you learn or improve?
 
 ---
-# The whole spectrum
-
-## Programming
-## Data munging
-## Scaling systems
-## Interpretation/communication
-
----
 # Step 1: Learn to code
 
-* If you don't know a language yet, try Python.
-* Go to local programming meetups.  Make friends.
-* Work on projects.
-* Go to hackathons.
+* If you don't know a language yet, try Python
+* Go to programming meetups.  Make friends
+* Work on projects
+    * Web apps are good
+* Go to hackathons
 
 ----
 # Step 2: Learn to work with data
 
 * Find datasets.
-    * UCI machine learning repository is good
-    * So is census.gov
-    * And stock data
-    * And reddit /r/datasets
+    * UCI machine learning repository
+    * Census.gov
+    * Stock data (scrape)
+    * Reddit /r/datasets
 * Answer interesting questions with the data
 * Think about how you might predict things
-* Go to data science meetups.  Make more friends.
+* Go to data science meetups
 
 ---
 # Step 3: Start with applied ML
 
 * Get familiar with implementing linear regression
     * Look at documentation, like `scikit-learn`
-* Go to machine learning meetups.  Make even more friends.
-* Work on a project to implement linear regression.
+* Go to machine learning meetups
+* Work on a project to implement linear regression
 * Progressively add pieces (error measurement, cross validation, etc)
 
 ---
 # Step 4: More application, and some theory
 
-* Find progressively harder problems.
+* Find harder problems
 * Write blog posts, speak at meetups, and put projects on github
 * Do some consulting
 * Learn statistics
     * Make your regression projects better
+* Learn linear algebra
 
 ---
-# Step 5: More theory
+# Step 5: Get better at coding
+
+* Unit test your algorithms
+* Learn some basic computer science (sorting/search/etc)
+* Refactor old code
+
+---
+# Step 6: Broaden the scope
 
 * Keep working on projects
 * Learn a couple more algorithms
@@ -242,15 +251,14 @@ title: Machine learning education
 # How long will this take?
 
 * Ongoing process
-* Initial steps 6 months to a couple of years
-* But things change quickly
+* 6 months to a couple of years initially
+* Things change quickly
 
 ---
-# Wrapping up
+# The future
 
-## How can we teach machine learning to people across the pyramid?
-## Can we enable better peer interactions?
-## How can we reach people earlier on?
+* We can all make better tools
+* No better time to learn or teach ML
 
 ---
 # Done!
