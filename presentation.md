@@ -53,7 +53,7 @@ title: Machine learning education
 * Way to try lots of techniques
 * Good discussion forum
 * Competition
-* Hard to know where to start
+* Appeals to a certain personality
 
 ---
 # So...how does someone learn machine learning?
@@ -62,7 +62,7 @@ title: Machine learning education
 * Very few make it through
 
 ---
-# Machine learning pyramid
+# Many different roles
 
 * Researchers
 * Framework developers
@@ -71,7 +71,7 @@ title: Machine learning education
 * Consumers
 
 ---
-# The lower layers are important
+# Interpreters/consumers are important
 
 * Two "AI Winters"
     * Hype
@@ -85,7 +85,7 @@ title: Machine learning education
 * Negative public reaction
 
 ---
-# Why don't we focus on other layers?
+# Why don't we teach the roles differently?
 
 * Roles just being defined
 * Many job postings are unrealistic
@@ -111,8 +111,8 @@ title: Machine learning education
 ---
 # Application
 
-* Applied side important
 * Data cleaning 90% of work
+* Tradeoffs when applying algorithms
 
 ---
 # Communication
@@ -141,7 +141,7 @@ title: Machine learning education
 ---
 # Problem: Bias
 
-* People who made it through know more now
+* People who made it through too far from beginning stages
 * Not everyone wants to get to the same place
 
 ---
@@ -172,14 +172,14 @@ title: Machine learning education
 * First steps are semi-magical
 
 ---
-# High schoolers
+# You can even motivate high schoolers!
 
 * 2 high schools on dataquest
 * Very good results
 * Next step: teach ML
 
 ---
-# Discussion is good
+# Groups increase motivation
 
 * Blended learning very effective
 * Correlates with high course performance
@@ -222,9 +222,9 @@ title: Machine learning education
 
 * Find harder problems
 * Write blog posts, speak at meetups, and put projects on github
-* Do some consulting
+* Consult
+* Learn a couple more algorithms (knn/k-means/logistic regression)
 * Learn statistics
-    * Make your regression projects better
 * Learn linear algebra
 
 ---
@@ -240,6 +240,7 @@ title: Machine learning education
 * Keep working on projects
 * Learn a couple more algorithms
 * Work on larger datasets
+* Learn about hardware, storage, and networking
 
 ---
 # Quick weekend hack
