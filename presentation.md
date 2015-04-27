@@ -10,7 +10,7 @@ title: Machine learning education
 ---
 # How I got started with ML
 
-* Bachelors in American History
+* BA in American History
 * Learned using online resources
 
 ---
@@ -24,20 +24,20 @@ title: Machine learning education
 ---
 # The result
 
-* Many turned away from machine learning
+* Many turned away
 * Important skills not emphasized
 
 ---
 # Questions to answer in this talk
 
-* What do I tell someone who wants to learn ML?
-* How do I learn ML or improve my skills?
+* What do I tell someone who wants to learn?
+* How do I improve my skills?
 
 ---
 # Getting more people in
 
 * Huge strides in past few years
-* > 100k students in Andrew Ng's first class
+* > 100k students in Andrew Ng's first MOOC
 
 ---
 # MOOCs
@@ -50,16 +50,15 @@ title: Machine learning education
 ---
 # Kaggle
 
-* Way to try lots of techniques
+* Try lots of techniques
 * Good discussion forum
 * Competition
 * Appeals to a certain personality
 
 ---
-# So...how does someone learn machine learning?
+# How does someone learn machine learning?
 
 * Standard answer: stats, linear algebra, read books, take moocs
-* Very few make it through
 
 ---
 # Many different roles
@@ -71,36 +70,24 @@ title: Machine learning education
 * Consumers
 
 ---
-# Interpreters/consumers are important
+# Interpreters/consumers important
 
 * Two "AI Winters"
     * Hype
-    * Inability to adapt products to the market
+    * Few consumer products
 * Elon Musk (and others) -- "AI is an existential threat"
     
 ---
 # edX automated essay scoring
 
-* Too much hype
-* Negative public reaction
-
----
-# Why don't we teach the roles differently?
-
-* Roles just being defined
-* Many job postings are unrealistic
-
----
-# Perpetuates a myth
-
-* Either a beginner or at the top
-* Have to know everything about everything
+* Hype
+* Negative reaction
 
 ---
 # Learning applied ML
 
 ---
-# Machine learning is about solving problems
+# ML is about solving problems
 
 ---
 # Entry level job/project-readiness
@@ -136,33 +123,39 @@ title: Machine learning education
 # Why aren't we teaching this stuff?
 
 * Harder + less interesting to teach
-* Seen as easier in industry
+* Industry problem
 
 ---
-# Problem: Bias
+# Bias
 
-* People who made it through too far from beginning stages
+* Advice-givers too far from beginning
 * Not everyone wants to get to the same place
 
 ---
-# Problem: quickly evolving field
+# Quickly evolving field
 
-* Hard to know what someone needs
-* Machine learning becoming a "destination"
+* Roles ill-defined
+* ML a "destination"
+
+---
+# Perpetuates a myth
+
+* Either a beginner or at the top
+* Have to know everything about everything
 
 ---
 # Result
 
-* Many turned off of machine learning
-* Kaggle + courses turn into a personality prefilter
+* Many turned off of ML
+* Kaggle + courses are a personality filter
     * Reduces diversity
-* "Machine learning" on resume != "Can do machine learning"
+* ML on resume != Can do ML
 
 ---
-# How to motivate people to learn?
+# How to motivate learning?
 
-* Recognize that everyone has different on and off ramps
-* Make better tools
+* Everyone has different on and off ramps
+* Better tools
     * Educational
     * Applied
     
@@ -175,25 +168,24 @@ title: Machine learning education
 # You can even motivate high schoolers!
 
 * 2 high schools on dataquest
-* Very good results
+* Good results
 * Next step: teach ML
 
 ---
 # Groups increase motivation
 
-* Blended learning very effective
-* Correlates with high course performance
+* Blended learning effective
+* Correlates with high course completion
 
 ---
-# So...how should you learn or improve?
+# How should you learn or improve?
 
 ---
 # Step 1: Learn to code
 
 * If you don't know a language yet, try Python
-* Go to programming meetups.  Make friends
+* Go to programming meetups
 * Work on projects
-    * Web apps are good
 * Go to hackathons
 
 ----
@@ -202,30 +194,28 @@ title: Machine learning education
 * Find datasets.
     * UCI machine learning repository
     * Census.gov
-    * Stock data (scrape)
     * Reddit /r/datasets
-* Answer interesting questions with the data
-* Think about how you might predict things
+* Answer questions with the data
+* Think about what/how you might predict
 * Go to data science meetups
 
 ---
 # Step 3: Start with applied ML
 
 * Get familiar with implementing linear regression
-    * Look at documentation, like `scikit-learn`
+    * Scikit-learn docs
 * Go to machine learning meetups
-* Work on a project to implement linear regression
+* Work on a project
 * Progressively add pieces (error measurement, cross validation, etc)
 
 ---
 # Step 4: More application, and some theory
 
-* Find harder problems
 * Write blog posts, speak at meetups, and put projects on github
 * Consult
-* Learn a couple more algorithms (knn/k-means/logistic regression)
 * Learn statistics
 * Learn linear algebra
+* Learn more algorithms (knn/k-means/logistic regression)
 
 ---
 # Step 5: Get better at coding
@@ -233,6 +223,7 @@ title: Machine learning education
 * Unit test your algorithms
 * Learn some basic computer science (sorting/search/etc)
 * Refactor old code
+* Get better at bash scripting
 
 ---
 # Step 6: Broaden the scope
@@ -252,11 +243,11 @@ title: Machine learning education
 # How long will this take?
 
 * Ongoing process
-* 6 months to a couple of years initially
+* 6 months to a couple of years upfront
 * Things change quickly
 
 ---
-# The future
+# Contributing
 
 * We can all make better tools
 * No better time to learn or teach ML
