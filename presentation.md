@@ -1,93 +1,46 @@
 ---
 author: Vik Paruchuri
-title: Machine learning education
+title: How to learn data science
 ---
-# Machine learning education
+# How to learn data science
 ## Vik Paruchuri
-## DataQuest (www.dataquest.io)
-## vik.paruchuri@gmail.com
+## Dataquest (www.dataquest.io)
+## vik@dataquest.io
 
 ---
-# How I got started with ML
+# Dataquest
+
+* In-browser data science tutorials
+* Learn theory + application
+
+---
+# How I got started
 
 * BA in American History
 * Learned using online resources
 
 ---
-# Quick survey
-
----
 # The problem
 
-* Learning about machine learning is a nebulous process that isn't aligned with application
+* Learning about data science is a nebulous process that isn't aligned with application
 
 ---
-# The result
+# What is data science?
 
-* Many turned away
-* Important skills not emphasized
-
----
-# Questions to answer in this talk
-
-* What do I tell someone who wants to learn?
-* How do I improve my skills?
+* Relatively new term
+* Intersection of many fields
 
 ---
-# Getting more people in
+# Increasing specialization
 
-* Huge strides in past few years
-* > 100k students in Andrew Ng's first MOOC
-
----
-# MOOCs
-
-* Great material
-* Good for deepening learning
-* Hard to filter
-* Not always application focused
+* Data engineer
+* Data analyst
+* Machine learning engineer
 
 ---
-# Kaggle
+# DS is about solving problems
 
-* Try lots of techniques
-* Good discussion forum
-* Competition
-* Appeals to a certain personality
-
----
-# How does someone learn machine learning?
-
-* Standard answer: stats, linear algebra, read books, take moocs
-
----
-# Many different roles
-
-* Researchers
-* Framework developers
-* Appliers
-* Interpreters
-* Consumers
-
----
-# Interpreters/consumers important
-
-* Two "AI Winters"
-    * Hype
-    * Few consumer products
-* Elon Musk (and others) -- "AI is an existential threat"
-    
----
-# edX automated essay scoring
-
-* Hype
-* Negative reaction
-
----
-# Learning applied ML
-
----
-# ML is about solving problems
+* Have to learn by doing
 
 ---
 # Entry level job/project-readiness
@@ -120,70 +73,42 @@ title: Machine learning education
 * Testing
 
 ---
-# Why aren't we teaching this stuff?
+# Traditional ways to teach
 
-* Harder + less interesting to teach
-* Industry problem
-
----
-# Bias
-
-* Advice-givers too far from beginning
-* Not everyone wants to get to the same place
+* MOOCs
+* Lectures
 
 ---
-# Quickly evolving field
+# What not to do: videos
 
-* Roles ill-defined
-* ML a "destination"
+* Great if you want to be entertained
+* Can't learn anything unless you're solving problems
 
----
-# Perpetuates a myth
+----
+# What not to do: "syntax only"
 
-* Either a beginner or at the top
-* Have to know everything about everything
+* If you just learn syntax, you won't be able to transfer skills
+* Critically important to learn how to think
 
----
-# Result
+----
+# What not to do: only follow guided tutorials
 
-* Many turned off of ML
-* Kaggle + courses are a personality filter
-    * Reduces diversity
-* ML on resume != Can do ML
+* Need to work on projects
+* Have to take off the training wheels
 
 ---
-# How to motivate learning?
+# What not to do: learn with multiple languages
 
-* Everyone has different on and off ramps
-* Better tools
-    * Educational
-    * Applied
-    
----
-# ML has intrinsic motivation
-
-* First steps are semi-magical
+* Highly recommend python
+* Get very comfortable/good with one language first
 
 ---
-# You can even motivate high schoolers!
-
-* 2 high schools on dataquest
-* Good results
-* Next step: teach ML
-
----
-# Groups increase motivation
-
-* Blended learning effective
-* Correlates with high course completion
-
----
-# How should you learn or improve?
+# How should you learn?
 
 ---
 # Step 1: Learn to code
 
-* If you don't know a language yet, try Python
+* Python! (hopefully)
 * Go to programming meetups
 * Work on projects
 * Go to hackathons
@@ -234,12 +159,6 @@ title: Machine learning education
 * Learn about hardware, storage, and networking
 
 ---
-# Quick weekend hack
-
-* Unite -- cooperative machine learning
-* https://github.com/dataquestio/unite
-
----
 # How long will this take?
 
 * Ongoing process
@@ -247,12 +166,14 @@ title: Machine learning education
 * Things change quickly
 
 ---
-# Contributing
+# How Dataquest can help
 
-* We can all make better tools
-* No better time to learn or teach ML
+* Teaches fundamentals, not syntax
+* Focuses on real-world datasets
+* Adding in mentorship features
+* Adding in projects
 
 ---
-# Done!
+# Questions?
 
-----
+---
